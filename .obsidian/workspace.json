@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "b96ad60fafe70655",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecb19df4babfa2ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55b30333e383913a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zr/fastapi：.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fastapi："
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9a0135c65ff646c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee83f5306e07654e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01d4598e3b64eddd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "da1252f67aaabc25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"zr/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "13b508ba3b8a67de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0551bfb0cbcd0534",
+    "type": "split",
+    "children": [
+      {
+        "id": "b344ed1f0155c910",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b279daecd68aad59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zr/fastapi：.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "fastapi： 的反向链接列表"
+            }
+          },
+          {
+            "id": "58fee9ea11e58754",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python-notes-import/YinXiangBiJi-import.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "YinXiangBiJi-import 的出链列表"
+            }
+          },
+          {
+            "id": "e716f2465662a73c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c4182ccdf30486ce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f807eeecfa68ffdb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python-notes-import/YinXiangBiJi-import.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "YinXiangBiJi-import 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "01d4598e3b64eddd",
+  "lastOpenFiles": [
+    "zr/GIT操作.md",
+    "Pasted image 20260720144938.png",
+    "Pasted image 20260720144737.png",
+    "Pasted image 20260720144546.png",
+    "Pasted image 20260720144432.png",
+    "Pasted image 20260720144347.png",
+    "zr/fastapi：.md",
+    "zr-notes-图片整理/12_SQL_DML与DQL查询/SQL DML与DQL查询.md",
+    "zr-notes-图片整理/12_SQL_DML与DQL查询/096.png",
+    "Pasted image 20260716100735.png",
+    "Pasted image 20260716100725.png",
+    "Pasted image 20260716100653.png",
+    "Pasted image 20260716100629.png",
+    "zr-notes-图片整理/09_FastAPI接口开发/FastAPI接口开发.md",
+    "zr-notes-图片整理/06_面向对象/面向对象.md",
+    "zr-notes-图片整理/05_迭代器_生成器_推导式/迭代器、生成器与推导式.md",
+    "zr-notes-图片整理/02_Python容器类型/Python容器类型.md",
+    "zr-notes-图片整理/03_流程控制/流程控制.md",
+    "zr-notes-图片整理/01_Python基础语法/Python基础语法.md",
+    "zr-notes-图片整理/14_SQL多表关系与连接查询/SQL多表关系与连接查询.md",
+    "zr-notes-图片整理/13_SQL函数_权限_外键约束/SQL函数、权限与外键约束.md",
+    "zr-notes-图片整理/11_SQL_DDL与数据类型/SQL DDL与数据类型.md",
+    "zr-notes-图片整理/10_MySQL安装与SQL分类/MySQL安装与SQL分类.md",
+    "zr-notes-图片整理/00_总览.md",
+    "zr-notes-图片整理/12_SQL_DML与DQL查询",
+    "zr-notes-图片整理/11_SQL_DDL与数据类型",
+    "zr-notes-图片整理/10_MySQL安装与SQL分类",
+    "zr-notes-图片整理/09_FastAPI接口开发",
+    "zr-notes-图片整理/14_SQL多表关系与连接查询",
+    "zr-notes-图片整理/13_SQL函数_权限_外键约束",
+    "zr-notes-图片整理/07_模块与常用库/模块与常用库.md",
+    "zr-notes-图片整理/08_HTTP与AI接口基础/HTTP与AI接口基础.md",
+    "zr-notes-图片整理/04_函数与匿名函数/函数与匿名函数.md",
+    "zr-notes-图片整理/07_模块与常用库",
+    "zr-notes-图片整理/08_HTTP与AI接口基础",
+    "zr-notes-图片整理/06_面向对象",
+    "zr-notes-图片整理/05_迭代器_生成器_推导式",
+    "zr/zr-MySQL.md",
+    "未命名.canvas",
+    "Python-notes-import/Python学习笔记OCR文字整理版.md",
+    "Python-notes-import/Python学习笔记结构化索引.md",
+    "Python-notes-import/YinXiangBiJi-import.md",
+    "attachments/yinxiangbiji-054.png.md",
+    "attachments/yinxiangbiji-057.png.md",
+    "attachments/yinxiangbiji-072.png.md",
+    "创建链接.md"
+  ]
+}
