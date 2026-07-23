@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zr/GIT操作.md",
+                "file": "zr/Linux系统操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT操作"
+              "title": "Linux系统操作"
             }
           }
         ]
@@ -185,19 +185,22 @@
   },
   "active": "55b30333e383913a",
   "lastOpenFiles": [
-    "zr/fastapi：.md",
+    "attachments/Pasted image 20260723102855.png",
+    "attachments/Pasted image 20260723100911.png",
+    "attachments/Pasted image 20260723100806.png",
+    "attachments/Pasted image 20260723100702.png",
+    "attachments/Pasted image 20260723100650.png",
     "zr/GIT操作.md",
-    "zr/Linux系统操作.md",
     "Pasted image 20260709134506.png",
+    "attachments",
+    "新建文件夹",
+    "zr/fastapi：.md",
+    "zr/Linux系统操作.md",
     "Pasted image 20260709135617.png",
     "Pasted image 20260709180910.png",
     "Pasted image 20260709203838.png",
     "Pasted image 20260710150844.png",
     "Pasted image 20260710204434.png",
-    "Pasted image 20260710211227.png",
-    "Pasted image 20260711135155.png",
-    "Pasted image 20260711151237.png",
-    "Pasted image 20260722211325.png",
     "zr-notes-图片整理/12_SQL_DML与DQL查询/SQL DML与DQL查询.md",
     "zr-notes-图片整理/09_FastAPI接口开发/FastAPI接口开发.md",
     "zr-notes-图片整理/06_面向对象/面向对象.md",
@@ -221,8 +224,6 @@
     "zr-notes-图片整理/04_函数与匿名函数/函数与匿名函数.md",
     "zr-notes-图片整理/07_模块与常用库",
     "zr-notes-图片整理/08_HTTP与AI接口基础",
-    "zr-notes-图片整理/06_面向对象",
-    "zr-notes-图片整理/05_迭代器_生成器_推导式",
     "zr/zr-MySQL.md",
     "未命名.canvas",
     "Python-notes-import/Python学习笔记OCR文字整理版.md",

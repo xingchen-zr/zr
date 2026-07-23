@@ -2,5 +2,8 @@
   "promptDelete": false,
   "newFileLocation": "root",
   "useMarkdownLinks": true,
-  "newFileFolderPath": "attachments"
+  "newFileFolderPath": "attachments",
+  "attachmentFolderPath": "attachments",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute"
 }
