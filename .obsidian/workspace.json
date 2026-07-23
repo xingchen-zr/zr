@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zr/fastapi：.md",
+                "file": "zr/GIT操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fastapi："
+              "title": "GIT操作"
             }
           }
         ]
@@ -183,21 +183,22 @@
       "bases:新建数据库": false
     }
   },
-  "active": "01d4598e3b64eddd",
+  "active": "55b30333e383913a",
   "lastOpenFiles": [
-    "zr/GIT操作.md",
-    "Pasted image 20260720144938.png",
-    "Pasted image 20260720144737.png",
-    "Pasted image 20260720144546.png",
-    "Pasted image 20260720144432.png",
-    "Pasted image 20260720144347.png",
     "zr/fastapi：.md",
+    "zr/GIT操作.md",
+    "zr/Linux系统操作.md",
+    "Pasted image 20260709134506.png",
+    "Pasted image 20260709135617.png",
+    "Pasted image 20260709180910.png",
+    "Pasted image 20260709203838.png",
+    "Pasted image 20260710150844.png",
+    "Pasted image 20260710204434.png",
+    "Pasted image 20260710211227.png",
+    "Pasted image 20260711135155.png",
+    "Pasted image 20260711151237.png",
+    "Pasted image 20260722211325.png",
     "zr-notes-图片整理/12_SQL_DML与DQL查询/SQL DML与DQL查询.md",
-    "zr-notes-图片整理/12_SQL_DML与DQL查询/096.png",
-    "Pasted image 20260716100735.png",
-    "Pasted image 20260716100725.png",
-    "Pasted image 20260716100653.png",
-    "Pasted image 20260716100629.png",
     "zr-notes-图片整理/09_FastAPI接口开发/FastAPI接口开发.md",
     "zr-notes-图片整理/06_面向对象/面向对象.md",
     "zr-notes-图片整理/05_迭代器_生成器_推导式/迭代器、生成器与推导式.md",
@@ -229,7 +230,6 @@
     "Python-notes-import/YinXiangBiJi-import.md",
     "attachments/yinxiangbiji-054.png.md",
     "attachments/yinxiangbiji-057.png.md",
-    "attachments/yinxiangbiji-072.png.md",
-    "创建链接.md"
+    "attachments/yinxiangbiji-072.png.md"
   ]
 }
