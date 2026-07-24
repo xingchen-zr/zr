@@ -66,10 +66,22 @@ vim编辑器: ==vim 文件名==(进入文件编辑)
 	1.权限的查看:
 ![](attachments/Pasted%20image%2020260723212824.png)
 	2.文件权限的修改:
+		1.为一个用户添加sudo权限:在 /etc/sudoers 文件中配置相关权限内容(配置需要root权限)写法:   ==用户名    ALL=(ALL:ALL) ALL==
+		![](attachments/Pasted%20image%2020260724095845.png)
+		2.为一个组添加sudo权限: 在/etc/sudoers 文件中配置相关权限内容(配置需要root权限)写法:  ==%组名  ALL=(ALL:ALL) ALL==
+		![](attachments/Pasted%20image%2020260724101600.png)
+		3.为某一单一目录/文件更改权限(一般采用数字更改法)
+		![](attachments/Pasted%20image%2020260724102424.png)
+		![](attachments/Pasted%20image%2020260724102656.png)
+		4.更改文件所属的拥有者和组别：
+		方法: ==chown 用户名:组名  文件名== (":组名"忽略即只改变拥有者)
+		![](attachments/Pasted%20image%2020260724103056.png)
+		
 
+find:根据名称查找内容(最常用,其他也有根据大小等查询,但是不常用)
+![](attachments/Pasted%20image%2020260724135243.png)
 
-find:根据名称查找内容
+grep:![](attachments/Pasted%20image%2020260724141348.png)
+可以查询多个文件,这点与vim编辑器不同
 
-| grep(过滤):
-
-文件的压缩和解压缩:
+文件的压缩和解压缩:![](attachments/Pasted%20image%2020260724144044.png)
