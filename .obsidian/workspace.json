@@ -11,14 +11,12 @@
             "id": "55b30333e383913a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "zr/Linux系统操作.md",
-                "mode": "source",
-                "source": false
+                "file": "zr-notes-图片整理/02_Python容器类型/014.png"
               },
-              "icon": "lucide-file",
-              "title": "Linux系统操作"
+              "icon": "lucide-image",
+              "title": "014"
             }
           }
         ]
@@ -185,19 +183,21 @@
   },
   "active": "55b30333e383913a",
   "lastOpenFiles": [
+    "zr-notes-图片整理/02_Python容器类型/015.png",
+    "zr-notes-图片整理/02_Python容器类型/014.png",
+    "zr-notes-图片整理/02_Python容器类型/013.png",
+    "zr-notes-图片整理/02_Python容器类型/012.png",
+    "zr-notes-图片整理/02_Python容器类型/011.png",
+    "zr-notes-图片整理/02_Python容器类型/010.png",
+    "zr-notes-图片整理/02_Python容器类型/009.png",
+    "zr-notes-图片整理/02_Python容器类型/008.png",
+    "zr-notes-图片整理/02_Python容器类型/Python容器类型.md",
+    "zr-notes-图片整理/00_总览.md",
+    "zr/Linux系统操作.md",
     "attachments/Pasted image 20260724144044.png",
     "attachments/Pasted image 20260724141348.png",
     "attachments/Pasted image 20260724135243.png",
-    "attachments/Pasted image 20260724103056.png",
-    "attachments/Pasted image 20260724102656.png",
-    "attachments/Pasted image 20260724102424.png",
-    "attachments/Pasted image 20260724101600.png",
-    "attachments/Pasted image 20260724095845.png",
     "zr/GIT操作.md",
-    "zr/Linux系统操作.md",
-    "Pasted image 20260709134506.png",
-    "Pasted image 20260709134153.png",
-    "ecab86967aeaf3b43b22f05a0f714f58.png",
     "attachments",
     "新建文件夹",
     "zr/fastapi：.md",
@@ -205,14 +205,12 @@
     "zr-notes-图片整理/09_FastAPI接口开发/FastAPI接口开发.md",
     "zr-notes-图片整理/06_面向对象/面向对象.md",
     "zr-notes-图片整理/05_迭代器_生成器_推导式/迭代器、生成器与推导式.md",
-    "zr-notes-图片整理/02_Python容器类型/Python容器类型.md",
     "zr-notes-图片整理/03_流程控制/流程控制.md",
     "zr-notes-图片整理/01_Python基础语法/Python基础语法.md",
     "zr-notes-图片整理/14_SQL多表关系与连接查询/SQL多表关系与连接查询.md",
     "zr-notes-图片整理/13_SQL函数_权限_外键约束/SQL函数、权限与外键约束.md",
     "zr-notes-图片整理/11_SQL_DDL与数据类型/SQL DDL与数据类型.md",
     "zr-notes-图片整理/10_MySQL安装与SQL分类/MySQL安装与SQL分类.md",
-    "zr-notes-图片整理/00_总览.md",
     "zr-notes-图片整理/12_SQL_DML与DQL查询",
     "zr-notes-图片整理/11_SQL_DDL与数据类型",
     "zr-notes-图片整理/10_MySQL安装与SQL分类",
