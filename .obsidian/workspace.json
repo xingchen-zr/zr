@@ -11,12 +11,14 @@
             "id": "55b30333e383913a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "zr-notes-图片整理/02_Python容器类型/014.png"
+                "file": "notes/langchain.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "014"
+              "icon": "lucide-file",
+              "title": "langchain"
             }
           }
         ]
@@ -183,24 +185,25 @@
   },
   "active": "55b30333e383913a",
   "lastOpenFiles": [
-    "zr-notes-图片整理/02_Python容器类型/015.png",
+    "attachments/Pasted image 20260727200726.png",
+    "attachments/Pasted image 20260727200707.png",
+    "attachments/Pasted image 20260727185953.png",
+    "notes/langchain.md",
+    "attachments/Pasted image 20260727190040.png",
+    "attachments/Pasted image 20260727185959.png",
     "zr-notes-图片整理/02_Python容器类型/014.png",
+    "zr-notes-图片整理/02_Python容器类型/015.png",
     "zr-notes-图片整理/02_Python容器类型/013.png",
     "zr-notes-图片整理/02_Python容器类型/012.png",
     "zr-notes-图片整理/02_Python容器类型/011.png",
     "zr-notes-图片整理/02_Python容器类型/010.png",
-    "zr-notes-图片整理/02_Python容器类型/009.png",
-    "zr-notes-图片整理/02_Python容器类型/008.png",
     "zr-notes-图片整理/02_Python容器类型/Python容器类型.md",
     "zr-notes-图片整理/00_总览.md",
-    "zr/Linux系统操作.md",
-    "attachments/Pasted image 20260724144044.png",
-    "attachments/Pasted image 20260724141348.png",
-    "attachments/Pasted image 20260724135243.png",
-    "zr/GIT操作.md",
+    "notes/Linux系统操作.md",
+    "notes/GIT操作.md",
     "attachments",
     "新建文件夹",
-    "zr/fastapi：.md",
+    "notes/fastapi：.md",
     "zr-notes-图片整理/12_SQL_DML与DQL查询/SQL DML与DQL查询.md",
     "zr-notes-图片整理/09_FastAPI接口开发/FastAPI接口开发.md",
     "zr-notes-图片整理/06_面向对象/面向对象.md",
@@ -228,7 +231,6 @@
     "Python-notes-import/Python学习笔记结构化索引.md",
     "Python-notes-import/YinXiangBiJi-import.md",
     "attachments/yinxiangbiji-054.png.md",
-    "attachments/yinxiangbiji-057.png.md",
-    "attachments/yinxiangbiji-072.png.md"
+    "attachments/yinxiangbiji-057.png.md"
   ]
 }
