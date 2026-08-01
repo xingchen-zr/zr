@@ -1,6 +1,25 @@
-![](attachments/Pasted%20image%2020260727185953.png)
+	![](attachments/Pasted%20image%2020260727185953.png)
 ![](attachments/Pasted%20image%2020260727185959.png)
 两种message写法的区别:
 ![](attachments/Pasted%20image%2020260727190040.png)
 对于向量一般使用嵌入式模型进行计算
 ![](attachments/Pasted%20image%2020260727200726.png)
+利用ChatpromptTemplate进行提示词中变量的添加
+![](attachments/Pasted%20image%2020260728135226.png)
+![](attachments/Pasted%20image%2020260729145118.png)
+![](attachments/Pasted%20image%2020260731145655.png)
+各种不同类型的文件加载器:
+![](attachments/Pasted%20image%2020260731094854.png)
+![](attachments/Pasted%20image%2020260731094919.png)
+=============================================
+![](attachments/Pasted%20image%2020260731095151.png)
+=============================================
+![](attachments/Pasted%20image%2020260731103906.png)
+![](attachments/Pasted%20image%2020260731103930.png)
+=============================================
+![](attachments/Pasted%20image%2020260731104017.png)
+向量的存储和调用
+![](attachments/Pasted%20image%2020260731144407.png)
+通过RunnablePassthrough方法传递Prompt
+![](attachments/Pasted%20image%2020260731174017.png)
+![](attachments/Pasted%20image%2020260731174354.png)
