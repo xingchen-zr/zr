@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Nosql(Redis数据库).md",
+                "file": "notes/Linux系统操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nosql(Redis数据库)"
+              "title": "Linux系统操作"
             }
           }
         ]
@@ -187,21 +187,20 @@
   },
   "active": "55b30333e383913a",
   "lastOpenFiles": [
+    "notes/GIT操作.md",
+    "notes/Nosql(Redis数据库).md",
     "attachments/Pasted image 20260802094818.png",
     "attachments/Pasted image 20260801172442.png",
     "attachments/Pasted image 20260801165445.png",
     "attachments/Pasted image 20260801155935.png",
     "attachments/Pasted image 20260801145300.png",
     "attachments/Pasted image 20260801141630.png",
-    "notes/GIT操作.md",
     "notes/fastapi：.md",
-    "notes/Nosql(Redis数据库).md",
     "notes/langchain.md",
     "attachments/Pasted image 20260731174354.png",
     "attachments/Pasted image 20260731174017.png",
     "attachments/Pasted image 20260731173258.png",
     "attachments/Pasted image 20260731172508.png",
-    "attachments/Pasted image 20260731145655.png",
     "zr-notes-图片整理/02_Python容器类型/Python容器类型.md",
     "zr-notes-图片整理/00_总览.md",
     "notes/Linux系统操作.md",
