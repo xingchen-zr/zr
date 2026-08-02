@@ -1,0 +1,12 @@
+关于key的基础使用(所有类型通用):
+![](attachments/Pasted%20image%2020260801145300.png)
+String类型:
+![](attachments/Pasted%20image%2020260801141630.png)
+Hash类型:
+![](attachments/Pasted%20image%2020260801155935.png)
+列表类型:
+![](attachments/Pasted%20image%2020260801165445.png)
+set和zset(set无序,zset有序):
+![](attachments/Pasted%20image%2020260801172442.png)
+在python中连接redis
+![](attachments/Pasted%20image%2020260802094818.png)
