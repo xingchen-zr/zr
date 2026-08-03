@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Linux系统操作.md",
+                "file": "notes/fastapi：.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux系统操作"
+              "title": "fastapi："
             }
           }
         ]
@@ -187,7 +187,10 @@
   },
   "active": "55b30333e383913a",
   "lastOpenFiles": [
+    "notes/langchain.md",
     "notes/GIT操作.md",
+    "notes/fastapi：.md",
+    "notes/Linux系统操作.md",
     "notes/Nosql(Redis数据库).md",
     "attachments/Pasted image 20260802094818.png",
     "attachments/Pasted image 20260801172442.png",
@@ -195,15 +198,12 @@
     "attachments/Pasted image 20260801155935.png",
     "attachments/Pasted image 20260801145300.png",
     "attachments/Pasted image 20260801141630.png",
-    "notes/fastapi：.md",
-    "notes/langchain.md",
     "attachments/Pasted image 20260731174354.png",
     "attachments/Pasted image 20260731174017.png",
     "attachments/Pasted image 20260731173258.png",
     "attachments/Pasted image 20260731172508.png",
     "zr-notes-图片整理/02_Python容器类型/Python容器类型.md",
     "zr-notes-图片整理/00_总览.md",
-    "notes/Linux系统操作.md",
     "attachments",
     "新建文件夹",
     "zr-notes-图片整理/12_SQL_DML与DQL查询/SQL DML与DQL查询.md",
