@@ -1,4 +1,4 @@
-	![](attachments/Pasted%20image%2020260727185953.png)
+![](attachments/Pasted%20image%2020260727185953.png)
 ![](attachments/Pasted%20image%2020260727185959.png)
 两种message写法的区别:
 ![](attachments/Pasted%20image%2020260727190040.png)
@@ -7,7 +7,10 @@
 利用ChatpromptTemplate进行提示词中变量的添加
 ![](attachments/Pasted%20image%2020260728135226.png)
 ![](attachments/Pasted%20image%2020260729145118.png)
+短期会话记忆(一般保存在redis当中,设置过期时间):
 ![](attachments/Pasted%20image%2020260731145655.png)
+长期会话记忆:
+![](attachments/Pasted%20image%2020260806095929.png)
 各种不同类型的文件加载器:
 ![](attachments/Pasted%20image%2020260731094854.png)
 ![](attachments/Pasted%20image%2020260731094919.png)
@@ -23,3 +26,4 @@
 通过RunnablePassthrough方法传递Prompt
 ![](attachments/Pasted%20image%2020260731174017.png)
 ![](attachments/Pasted%20image%2020260731174354.png)
+Agent:
