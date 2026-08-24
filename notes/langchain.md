@@ -26,4 +26,3 @@
 通过RunnablePassthrough方法传递Prompt
 ![](attachments/Pasted%20image%2020260731174017.png)
 ![](attachments/Pasted%20image%2020260731174354.png)
-Agent:
