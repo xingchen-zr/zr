@@ -173,4 +173,13 @@ langgraph核心三件套:state,node,edge:state用于保存处理前后的数据,
 	![](attachments/Pasted%20image%2020260824174802.png)
 	![](attachments/Pasted%20image%2020260824184601.png)
 	![](attachments/Pasted%20image%2020260824190121.png)
-	
+***==父子图==***==(在langgraph的运行过程中,可以插入其他的图运行,插入其他图运行的方式大多数情况有两种)==
+	1.在父图的节点当中通过invoke或者stream方法直接获取到子图输出结果,然后将结果加入到父图的state当中参与运行(父图和子图的state是不相同的,各自定义)
+	2.将子图的执行状态注册成父图的节点,直接通过节点调用,这种情况下,两张图共用同一个全局state(注意子图需要设置一个从START开始的边)
+	![](attachments/Pasted%20image%2020260825170901.png)
+	(通过config获取父图的checkpoint信息时,可以获得简易的子图的信息,其中checkpoint_ns代表不同子图,通过相关信息就可以获得子图的具体checkpointer的详细信息,只做了解即可)
+==子图的持久化策略==
+![](attachments/Pasted%20image%2020260825181131.png)
+![](attachments/Pasted%20image%2020260825184620.png)
+![](attachments/Pasted%20image%2020260825181328.png)
+推荐使用stateless的情况:在一个节点内多次调用子图的情况下推荐使用stateless,==在一个节点当中多次调用子图容易出现记忆混乱==
